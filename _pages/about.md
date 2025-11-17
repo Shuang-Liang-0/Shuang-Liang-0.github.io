@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm a sixth year PhD student at Columbia University who expects to graduate June 2026. Here are some of my publications and machine learning projects on Github.
+Hi, I'm a sixth year PhD student at Columbia University who expect to graduate June 2026. I'm seeking opportunities in the industry. Here are some of my machine learning projects on Github and publications.
 
 I'm wrapping up my PhD in mathematics at Columbia University, under the supervision of Professor Duong Hong Phong. My research foucs on Partial Differential Equations and complex geometry. In particular, I work on a priori estimates on fully nonlinear equations and their application to non Kähler hermitian manifolds.
 
-Outside of work, I enjoy rock climbing.
+I enjoy rock climbing, playing soccer and watch films outside of work.
 
-Click [here]() to 
+Please see my resume below or view it as a [PDF]((/files/Shuang_Liang_Resume.pdf)).
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
