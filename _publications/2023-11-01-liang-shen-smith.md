@@ -1,7 +1,7 @@
 ---
 title: "The continuity equation for Hermitian metrics: Calabi estimates, Chern scalar curvature, and Oeljeklaus–Toma manifolds"
 collection: publications
-permalink: /publication/2023-liang-shen-smith
+permalink: /publications/2023-11-01-liang-shen-smith
 date: 2023-11-01
 venue: "Bulletin of the London Mathematical Society"
 paperurl: "https://doi.org/10.1112/blms.12976"

@@ -6,16 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm a sixth year PhD student at Columbia University who expect to graduate June 2026. I'm seeking opportunities in the industry. Here are some of my machine learning projects on Github and publications.
+Hi, I'm a sixth year PhD student at Columbia University who expect to graduate June 2026. I'm seeking opportunities in the industry. Here are some of my machine learning projects on Github, academic publications and teaching experience.
 
-I'm wrapping up my PhD in mathematics at Columbia University, under the supervision of Professor Duong Hong Phong. My research foucs on Partial Differential Equations and complex geometry. In particular, I work on a priori estimates on fully nonlinear equations and their application to non Kähler hermitian manifolds.
+I'm wrapping up my PhD in mathematics at Columbia University, under the supervision of Professor Duong Hong Phong. My research focuses on Partial Differential Equations and complex geometry. In particular, I work on a priori estimates on fully nonlinear equations and their application to non Kähler hermitian manifolds.
 
-I enjoy rock climbing, playing soccer and watch films outside of work.
+I enjoy rock climbing, playing soccer and watching films outside of work.
+Please see my resume below or view it as a [PDF](/files/Shuang_Liang_Resume.pdf).
 
-Please see my resume below or view it as a [PDF]((/files/Shuang_Liang_Resume.pdf)).
 
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -61,4 +60,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
